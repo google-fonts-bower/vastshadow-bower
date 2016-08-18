@@ -1,0 +1,17 @@
+{
+    "name": "vastshadow-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Nicole Fally"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/vastshadow-bower.git"
+    },
+    "description": "Vast Shadow font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
